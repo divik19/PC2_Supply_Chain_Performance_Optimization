@@ -1,6 +1,6 @@
-**  Supply Chain Performance Optimization **
+**Supply Chain Performance Optimization**
 
-Domian: FMCG 
+**Domian**: FMCG 
 
 
 **Situation:**  
