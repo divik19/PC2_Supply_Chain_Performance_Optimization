@@ -23,4 +23,4 @@ As a Supply Chain Data Analyst, I was tasked with developing a comprehensive das
 
 **Link:**
 
-**Dashboard** : (https://app.powerbi.com/view?r=eyJrIjoiMDIzYzUyNWItZGQwYy00NTIwLWFhYzItNzg5ZTdmNTM4NTU4IiwidCI6ImZlMWQ5NWE5LTRjZTEtNDFhNS04ZWFiLTZkZDQzYWEyNmQ5ZiJ9)
+**Dashboard** : (https://app.powerbi.com/reportEmbed?reportId=f3a0054a-09c3-49cf-893b-31afd0539ec3&autoAuth=true&ctid=301d36be-c500-4a3e-9a83-142a45170631)
